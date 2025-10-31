@@ -15,7 +15,7 @@ counter intuitive to have 3 other direction arrows when a click or two of the sp
 
 <img src="https://github.com/user-attachments/assets/099b6fae-4e9c-469f-8292-bf88250475f3" width="250" height="250"/><br/>
 
-
+The **Baggage Claim** & **Baggage Claim Check-in** symbols are identical so I only converted the **Baggage Claim** symbol and removed the check-in.
 
 
 ### Current Symbols In Repo
