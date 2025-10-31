@@ -1,4 +1,4 @@
-All symbols are sourced directly from the American Institute of Graphic Arts (AIGA)'s [website](https://www.aiga.org/resources/symbol-signs), where they provide as of writing this **50 symbol signs** developed in collaboration with the 
+All symbols are sourced directly from the American Institute of Graphic Arts (AIGA)'s [website](https://www.aiga.org/resources/symbol-signs), where they provide as of writing this **68 symbol signs** developed in collaboration with the 
 United States Department of Transportation (DOT) to create universal symbols for common items, locations, services one may have a struggle to find. None of the symbols include any text as they are meant to be universally understood without the issue of language barriers. <br/>
 
 **Revit** is one the most used architectural design and development softwares in the architectural industry. Being developed by Autodesk it is a very versatile software. However it appears they have decided not to or at least have yet to include basic universal symbols
