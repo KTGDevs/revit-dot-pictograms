@@ -1,5 +1,10 @@
 All symbols are sourced directly from the American Institute of Graphic Arts (AIGA)'s [website](https://www.aiga.org/resources/symbol-signs), where they provide as of writing this **68 symbol signs** developed in collaboration with the 
-United States Department of Transportation (DOT) to create universal symbols for common items, locations, services one may have a struggle to find. None of the symbols include any text as they are meant to be universally understood without the issue of language barriers. <br/>
+United States Department of Transportation (DOT) to create universal symbols for common items, locations, services one may have a struggle to find. None of the symbols include any text as they are meant to be universally understood without the issue of language barriers. 
+> Other sources include:
+> - [The Noun Project](https://thenounproject.com/browse/creator/aiga-icons/icons/?p=1)
+> - [Wikipedia](https://en.wikipedia.org/wiki/DOT_pictograms)
+<br/>
+
 
 **Revit** is one the most used architectural design and development softwares in the architectural industry. Being developed by Autodesk it is a very versatile software. However it appears they have decided not to or at least have yet to include basic universal symbols
 that allow for quick and easy annotation without getting into the needy griddy of something like their built in areas or rooms to label a area/room. <br/>
