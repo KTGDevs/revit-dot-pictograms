@@ -9,13 +9,13 @@ should be the smallest size a symbol should be to stay elligble on something lik
 > I may return to create different sized icons (.50", 1", etc) in the future if I find these icons are too small.
 
 ### Changes to symbols
-Revit allows for symbols to be rotated easily 90° in any direction with the press of the space bar when placing down the symbol. With this in mind I decided it would be easier to only import a single arrow of each type (bordered, not bordered) since it would be
+- Revit allows for symbols to be rotated easily 90° in any direction with the press of the space bar when placing down the symbol. With this in mind I decided it would be easier to only import a single arrow of each type (bordered, not bordered) since it would be
 counter intuitive to have 3 other direction arrows when a click or two of the space bar can do the same. This lowers the size of the repo and the list of symbols one may need to import into their project. <br/>
 > I debated adding the 45° arrows as snapping only defaults to 90° meaning the user would have to use the rotate tool after placing each arrow to point it in the right direction, or will have to align the placement tool to a 45° line somewhere in the project.
 
 <img src="https://github.com/user-attachments/assets/099b6fae-4e9c-469f-8292-bf88250475f3" width="250" height="250"/><br/>
 
-The **Baggage Claim** & **Baggage Claim Check-in** symbols are identical so I only converted the **Baggage Claim** symbol and removed the check-in.
+- The **Baggage Claim** & **Baggage Claim Check-in** symbols are identical so I only converted the **Baggage Claim** symbol and removed the check-in.
 
 
 ### Current Symbols In Repo
