@@ -20,11 +20,12 @@ counter intuitive to have 3 other direction arrows when a click or two of the sp
 
 <img src="https://github.com/user-attachments/assets/099b6fae-4e9c-469f-8292-bf88250475f3" width="250" height="250"/><br/>
 
+
 - The **Baggage Claim** & **Baggage Claim Check-in** symbols are identical so I only converted the **Baggage Claim** symbol and removed the check-in.
 
 
 ### Current Symbols In Repo
-<img width="auto" height="500" alt="PNG displaying all symbols currently in the repo" src="https://github.com/user-attachments/assets/5430c5a7-6a7c-426b-aa43-7864d4b2696d" /><br/>
+<img width="auto" height="500" alt="All Symbols" src="https://github.com/user-attachments/assets/20db73cf-3a64-459d-a1c8-cee07ce3d379" /><br/>
 _* Symbols with issues are present in image and are to be fixed & updated._
 <br/>
 
