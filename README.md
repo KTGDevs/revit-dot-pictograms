@@ -31,3 +31,7 @@ _* Symbols with issues are present in image and are to be fixed & updated._
 
 ### Colored Symbols supporting both colored and black options in selection
 <img width="123" height="52" alt="Exit symbol in both black and green color" src="https://github.com/user-attachments/assets/be80835e-f720-4f5a-942a-aee3e7a00ff7" />
+
+
+### Notes:
+- 2/3s done with this project i found that the offical aiga website download page was missing the customs and immigration symbols from the pack and had to aquire them using the noun project website.
