@@ -29,3 +29,4 @@ _Colored Symbols supporting both colored and black options are available_ <br/>
 
 ### Notes:
 - 2/3s done with this project i found that the offical aiga website download page was missing the customs and immigration symbols from the pack and had to aquire them using the noun project website.
+- on both the AIGA offical website and The Noun Project site there are differences between the symbols including certain symbols missing from one site vs the other. 
