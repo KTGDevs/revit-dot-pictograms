@@ -25,7 +25,6 @@ should be the smallest size a symbol should be to stay elligble on something lik
 ### Current Symbols In Repo
 <img width="auto" height="500" alt="All Symbols" src="https://github.com/user-attachments/assets/93d2ab85-ceef-438d-8685-c40205899f64" /><br/>
 _Colored Symbols supporting both colored and black options are available_ <br/>
-_* Symbols with issues are present in image and are to be fixed & updated._
 <br/>
 
 ### Notes:
